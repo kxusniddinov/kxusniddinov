@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Komronbek Xusniddinov
 - 🌱 I’m currently learning Python and Data Science
-- 😄 Pronouns: He/his
+- 😄 Pronouns: He/him
