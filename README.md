@@ -1,3 +1,16 @@
 - 👋 Hi, I’m Komronbek Xusniddinov
-- 🌱 I’m currently learning Python and Data Science
 - 😄 Pronouns: He/him
+- 🚀 Technologies & Tools I Use
+
+  - Languages: Python
+  - Frameworks: Django
+  - Databases: SQLlite, PostgreSQL
+  - Tools: Git, Docker, AWS, CI/CD
+
+- 🌱 What I'm Learning
+  - I'm constantly trying to expand my knowledge and skills. Currently, I'm diving deeper into:
+  
+  - Machine Learning and Artificial Intelligence
+  - Cloud Computing (AWS, Azure)
+  - Data Science
+  - HTML, CSS, JavaScript, React
